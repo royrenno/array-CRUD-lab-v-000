@@ -1,5 +1,5 @@
 def create_an_empty_array
-  puts[]
+  puts"[]"
 end
 
 def create_an_array
